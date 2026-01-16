@@ -1,4 +1,4 @@
-# PCB Simulation Server
+# Capstone
 
 This is a personal project repository for module 5 `capstone`, developed as part of my coursework in **CSCA 5448: Object-Oriented Analysis & Design – Foundations and Concepts**.
 
